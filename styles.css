@@ -1,20 +1,28 @@
-.father {
-  display: flex;
-  justify-content: space-around;
-  align-content: space-between;
-  height: 100vh;
-}
-.children {
-  flex-basis: 30%;
-  background: peru;
-  color: white;
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
-.children:nth-child(2) {
-  background-color: #000;
-  flex-grow: 0;
+.grid {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(4, 100px);
+  grid-template-rows: repeat(4, 100px);
+}
+.header {
+  background-color: #2ecc71;
+  grid-column: span 4;
+}
+.content {
+  background-color: #3498db;
+  grid-column: 1 / -2;
+  grid-row: span 2;
+}
+.nav {
+  background-color: #8e44ad;
+  grid-row: span 2;
+}
+.footer {
+  background-color: #f39c12;
+  grid-column: span 4;
 }
