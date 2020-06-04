@@ -4,32 +4,32 @@
 
 ## Flexbox:
 
-- [] flex-direction
-- [] order
-- [] justify-content
-- [] align-items
-- [] align-self
-- [] flex-wrap
-- [] align-content
-- [] flex-grow
-- [] flex-shrink
-- [] flex-basis
+- [x] flex-direction
+- [x] order
+- [x] justify-content
+- [x] align-items
+- [x] align-self
+- [x] flex-wrap
+- [x] align-content
+- [x] flex-grow
+- [x] flex-shrink
+- [x] flex-basis
 
 ## Grid:
 
-- [] grid-template-columns
-- [] grid-template-rows
-- [] column-gap
-- [] row-gap
-- [] gap
-- [] grid-template-areas
-- [] grid-column-start
-- [] grid-column-end
-- [] grid-row-start
-- [] grid-row-end
-- [] grid-column
-- [] grid-row
-- [] grid-template
+- [x] grid-template-columns
+- [x] grid-template-rows
+- [x] column-gap
+- [x] row-gap
+- [x] gap
+- [x] grid-template-areas
+- [x] grid-column-start
+- [x] grid-column-end
+- [x] grid-row-start
+- [x] grid-row-end
+- [x] grid-column
+- [x] grid-row
+- [x] grid-template
 - [] justify-items
 - [] align-items
 - [] place-items
