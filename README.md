@@ -30,24 +30,24 @@
 - [x] grid-column
 - [x] grid-row
 - [x] grid-template
-- [] justify-items
-- [] align-items
-- [] place-items
-- [] justify-content
-- [] align-content
-- [] place-content
-- [] justify-self
-- [] align-self
-- [] place-self
-- [] grid-auto-rows
-- [] grid-auto-flow
-- [] grid-auto-columns
+- [x] justify-items
+- [x] align-items
+- [x] place-items
+- [x] justify-content
+- [x] align-content
+- [x] place-content
+- [x] justify-self
+- [x] align-self
+- [x] place-self
+- [x] grid-auto-rows
+- [x] grid-auto-flow
+- [x] grid-auto-columns
 
 ### Keywords & Functions:
 
-- [] repeat
-- [] fr
-- [] minmax
+- [x] repeat
+- [x] fr
+- [x] minmax
 - [] auto-fit
 - [] auto-fill
 - [] min-content
