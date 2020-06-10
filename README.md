@@ -48,10 +48,14 @@
 - [x] repeat
 - [x] fr
 - [x] minmax
-- [] auto-fit
-- [] auto-fill
-- [] min-content
-- [] max-content
+- [x] auto-fit
+- [x] auto-fill
+- [x] min-content
+- [x] max-content
+
+## Grid Garden:
+
+- [x] Complete
 
 ## SCSS:
 
